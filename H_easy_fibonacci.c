@@ -8,7 +8,7 @@ int f;
 
 for(int i =0;i<n;i++) {
 
-   printf("%d", fibo0);
+   printf("%d ", fibo0);
 
     f = fibo0 + fibo1;
 
